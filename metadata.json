@@ -1,0 +1,5 @@
+{
+  "name": "Mood & Star Tracker",
+  "description": "A comprehensive student well-being application featuring mood tracking, a reward system with stars, appointment scheduling with teachers, and psychological assessments.",
+  "requestFramePermissions": []
+}
